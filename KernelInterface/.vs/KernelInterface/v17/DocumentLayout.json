@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meit\\source\\repos\\KernelInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A20D97-17EF-459B-901F-C56B343B7BDA}|KernelInterface\\KernelInterface.vcxproj|C:\\Users\\meit\\source\\repos\\KernelInterface\\KernelInterface\\KernelInterface.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3A20D97-17EF-459B-901F-C56B343B7BDA}|KernelInterface\\KernelInterface.vcxproj|solutionrelative:KernelInterface\\KernelInterface.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A20D97-17EF-459B-901F-C56B343B7BDA}|KernelInterface\\KernelInterface.vcxproj|C:\\Users\\meit\\source\\repos\\KernelInterface\\KernelInterface\\defs.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3A20D97-17EF-459B-901F-C56B343B7BDA}|KernelInterface\\KernelInterface.vcxproj|solutionrelative:KernelInterface\\defs.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A20D97-17EF-459B-901F-C56B343B7BDA}|KernelInterface\\KernelInterface.vcxproj|C:\\Users\\meit\\source\\repos\\KernelInterface\\KernelInterface\\utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3A20D97-17EF-459B-901F-C56B343B7BDA}|KernelInterface\\KernelInterface.vcxproj|solutionrelative:KernelInterface\\utils.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KernelInterface.c",
+              "DocumentMoniker": "C:\\Users\\meit\\source\\repos\\KernelInterface\\KernelInterface\\KernelInterface.c",
+              "RelativeDocumentMoniker": "KernelInterface\\KernelInterface.c",
+              "ToolTip": "C:\\Users\\meit\\source\\repos\\KernelInterface\\KernelInterface\\KernelInterface.c",
+              "RelativeToolTip": "KernelInterface\\KernelInterface.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-28T15:05:54.775Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "defs.hpp",
+              "DocumentMoniker": "C:\\Users\\meit\\source\\repos\\KernelInterface\\KernelInterface\\defs.hpp",
+              "RelativeDocumentMoniker": "KernelInterface\\defs.hpp",
+              "ToolTip": "C:\\Users\\meit\\source\\repos\\KernelInterface\\KernelInterface\\defs.hpp",
+              "RelativeToolTip": "KernelInterface\\defs.hpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-16T13:27:25.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "utils.c",
+              "DocumentMoniker": "C:\\Users\\meit\\source\\repos\\KernelInterface\\KernelInterface\\utils.c",
+              "RelativeDocumentMoniker": "KernelInterface\\utils.c",
+              "ToolTip": "C:\\Users\\meit\\source\\repos\\KernelInterface\\KernelInterface\\utils.c",
+              "RelativeToolTip": "KernelInterface\\utils.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T13:26:55.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
